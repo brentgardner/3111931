@@ -1,8 +1,5 @@
 from noc_list_api import NocListApi
 import unittest
-#from unittest.mock import patch, Mock
-
-#from unittest.mock import Mock, patch
 
 class TestNocListApi(unittest.TestCase):
     """
