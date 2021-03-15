@@ -1,4 +1,10 @@
 # How to run 3111931
+## Requirments
+
+python >= 3.6.13
+requests >= 2.25.1
+
+These instructions are targeted to macOS or Linux
 
 ## Running the server test api server
 
