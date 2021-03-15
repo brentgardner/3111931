@@ -26,7 +26,7 @@ These instructions are targeted to macOS or Linux
     `python -m venv 3111931-env`
 5. Activate virtual environment.
     `source 3111931-env/bin/activate`
-6. Install the requirments for 3111931.
+6. Install the equirements for 3111931.
     `pip install -r requirements.txt`
 
 
@@ -36,7 +36,7 @@ These instructions are targeted to macOS or Linux
 2. Open a command prompt and change directories into the 3111931 repository that you cloned during setup.
 3. Run the application.
     `python noc_list.py`
-4. You should see a JSON formated string outputed to shell.
+4. You should see a JSON formatted string to stdout.
     `["9757263792576857988", "7789651288773276582", "16283886502782682407", "...etc"]`
 
 ## Running the tests for 3111931
